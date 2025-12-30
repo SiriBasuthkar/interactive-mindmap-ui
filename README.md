@@ -4,7 +4,7 @@
 https://interactive-mindmap-ui.netlify.app
 
 ## GitHub Repository
-https://github.com/YOUR_USERNAME/interactive-mindmap-ui
+https://github.com/SiriBasuthkar/interactive-mindmap-ui
 
 ## Tech Stack
 - React
