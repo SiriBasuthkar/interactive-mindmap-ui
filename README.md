@@ -1,7 +1,7 @@
 # Interactive Mindmap UI
 
 ## Live Demo
-https://interactive-mindmap-ui.netlify.app
+[https://interactive-mindmap-ui.netlify.app](https://interactive-mindmap-ui-git-main-siribasuthkars-projects.vercel.app/)
 
 ## GitHub Repository
 https://github.com/SiriBasuthkar/interactive-mindmap-ui
