@@ -1,0 +1,52 @@
+{
+  "id": "root",
+  "label": "Vitamins in Human Body",
+  "summary": "Essential micronutrients required for normal metabolic function.",
+  "children": [
+    {
+      "id": "classification",
+      "label": "Vitamin Classification",
+      "summary": "Classified based on solubility.",
+      "children": [
+        {
+          "id": "fat",
+          "label": "Fat-Soluble Vitamins",
+          "summary": "Stored in body fat.",
+          "children": [
+            { "id": "A", "label": "Vitamin A", "summary": "Vision & immunity" },
+            { "id": "D", "label": "Vitamin D", "summary": "Bone health" },
+            { "id": "E", "label": "Vitamin E", "summary": "Antioxidant" },
+            { "id": "K", "label": "Vitamin K", "summary": "Blood clotting" }
+          ]
+        },
+        {
+          "id": "water",
+          "label": "Water-Soluble Vitamins",
+          "summary": "Not stored in body.",
+          "children": [
+            { "id": "C", "label": "Vitamin C", "summary": "Immunity" },
+            { "id": "B", "label": "Vitamin B-Complex", "summary": "Energy metabolism" }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "sources",
+      "label": "Dietary Sources",
+      "summary": "Obtained from food.",
+      "children": [
+        { "id": "fruits", "label": "Fruits & Vegetables", "summary": "Rich in vitamins" },
+        { "id": "meat", "label": "Meat & Dairy", "summary": "Animal sources" }
+      ]
+    },
+    {
+      "id": "impact",
+      "label": "Health Impact & Balance",
+      "summary": "Deficiency & excess effects.",
+      "children": [
+        { "id": "def", "label": "Deficiency", "summary": "Leads to diseases" },
+        { "id": "exc", "label": "Excess", "summary": "Can cause toxicity" }
+      ]
+    }
+  ]
+}
